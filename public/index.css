@@ -1,0 +1,26 @@
+body {
+  margin-left:70px;
+  width: 90%;
+}
+
+
+#overview {
+  margin-left: 20px;
+  z-index: 1;
+}
+
+#menu {
+  margin-left: 20px;
+}
+
+#gallery-container {
+  margin-left: 20px;
+}
+
+#reservation {
+  top: 10px;
+  z-index: 0;
+  float: right;
+}
+
+
