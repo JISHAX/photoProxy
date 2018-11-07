@@ -1,0 +1,9 @@
+[submodule "photo"]
+	path = photo
+	url = https://github.com/JISHAX/photo.git
+[submodule "Han-DropTable-Menu"]
+	path = Han-DropTable-Menu
+	url = https://github.com/JISHAX/Han-DropTable-Menu.git
+[submodule "reviews"]
+	path = reviews
+	url = https://github.com/JISHAX/reviews.git
