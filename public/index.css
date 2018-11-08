@@ -23,4 +23,26 @@ body {
   float: right;
 }
 
+.Jawad {
+    position: absolute;
+    top: 0px;
+    left: 5%;
+    
+    width: 1050px;
+    
+}  
+.Issac {
+    position: relative;
+    float:left;
+    top: 0px;
+    left: auto;
+    width: 300px;
+    
+}  
+.shared{
+    width:1000px;
+   display:flex;
+    justify-content: left;
+}
+
 
